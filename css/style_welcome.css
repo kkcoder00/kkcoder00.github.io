@@ -1,5 +1,5 @@
 body {
-	background: #310404 url(../images/test-bg2.jpg) repeat top left;
+	background: url(../images/test-bg2.jpg) repeat top left;
 	font-family: "Microsoft YaHei"
 }
 a{
